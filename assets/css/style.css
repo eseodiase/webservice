@@ -3,9 +3,7 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-. button: hover {
-background:#000;
-}
+
 
 #hov1{background:gold;
 color: #fff;
@@ -221,7 +219,7 @@ h1, h2, h3, h4, h5, h6 {
   outline: none !important;
   line-height: 1;
   cursor: pointer;
-  text-align: right;
+  text-align: left;
 }
 
 .mobile-nav-toggle i {
